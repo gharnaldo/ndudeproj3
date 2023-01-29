@@ -7,3 +7,4 @@
 /__pycache__
 create_table_exec.ipynb
 etl_exec.ipynb
+.gitignore
